@@ -226,6 +226,19 @@
     - tracing
     - deployment
 
+- title: Build a simple starter agent with the OpenAI Agents SDK
+  path: examples/agents_sdk/simple_agent/README.md
+  slug: simple-agent-starter
+  description: Create a minimal Agents SDK agent with a custom tool to answer weather-related questions from the command line.
+  date: 2026-08-08
+  authors:
+    - openai
+  tags:
+    - agents-sdk
+    - agents
+    - tools
+    - getting-started
+
 - title: Getting the Most out of GPT-5.4 for Vision and Document Understanding
   path: examples/multimodal/document_and_multimodal_understanding_tips.ipynb
   slug: vision-understanding

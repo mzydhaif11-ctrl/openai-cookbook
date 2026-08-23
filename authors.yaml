@@ -8,6 +8,10 @@ neilh-oai:
   website: "https://www.linkedin.com/in/neilhansaria"
   avatar: "https://avatars.githubusercontent.com/u/274336127?v=4"
 
+openai:
+  name: "OpenAI"
+  website: "https://openai.com"
+
 kkahadze-oai:
   name: "Konstantine Kahadze"
   website: "https://kahadze.com"
